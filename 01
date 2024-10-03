@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>German Verbs Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>German Verbs Table</h1>
+
+    <table>
+        <tr>
+            <th>German Verb</th>
+            <th>English Translation</th>
+            <th>Partizip II</th>
+            <th>Example with Verb</th>
+            <th>Example with Partizip II</th>
+        </tr>
+        <tr>
+            <td>gehen</td>
+            <td>to go</td>
+            <td>gegangen</td>
+            <td>Ich gehe in den Park.</td>
+            <td>Ich bin in den Park gegangen.</td>
+        </tr>
+        <tr>
+            <td>essen</td>
+            <td>to eat</td>
+            <td>gegessen</td>
+            <td>Ich esse einen Apfel.</td>
+            <td>Ich habe einen Apfel gegessen.</td>
+        </tr>
+        <!-- You can add more rows here -->
+    </table>
+
+</body>
+</html>
